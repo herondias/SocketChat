@@ -1,3 +1,3 @@
 # SocketChat
 
-# run node app
+run node app
